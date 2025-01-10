@@ -51,7 +51,5 @@ The model is deployed with a user-friendly web interface allowing non-technical 
 - Extend the model to global weather forecasting.
 - Explore integration with real-time cloud platforms for broader applications.
 
----
-
 ## Author
 - **Momo Ogawa**  
